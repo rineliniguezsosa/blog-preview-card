@@ -48,3 +48,30 @@ img {
     height: 200px;
     border-radius: 10px;
 }
+
+.preview-card-content {
+    width:336px;
+    height:194px;
+    border: 1px green solid;
+    margin-top:15px;
+}
+
+.category {
+    width:82px;
+    height: 29px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: hsl(47, 88%, 63%);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.category span {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 1rem;
+}
