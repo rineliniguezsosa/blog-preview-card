@@ -14,7 +14,6 @@
 }
 
 html, body {
-    border:1px red solid;
     height:100%;
 }
 
@@ -26,4 +25,11 @@ main {
     align-items: center;
     justify-content: center;
     background-color: hsl(47, 88%, 63%);
+}
+
+.preview-card-container {
+    width:384px;
+    height:522px;
+    border:1px black solid;
+    border-radius: 20px;
 }
