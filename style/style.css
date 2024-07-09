@@ -81,22 +81,20 @@ main {
 }
 
 .publishdate {
+    margin-bottom: 12px;
+    border:1px red solid;
+}
+
+.publishdate span {
     font-family: "Figtree", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
+    font-weight: 500px;
     font-style: normal;
     font-size: 0.875rem;
-    margin-bottom: 12px;
 }
 
 .title {
-    /* font-family: "Figtree", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 800;
-    font-style: normal;
-    font-size: 0.8rem; */
-    /* border:1px red solid; */
-    /* color: hsl(0, 0%, 7%); */
+    border:1px red solid;
     margin-bottom: 12px;
 }
 
