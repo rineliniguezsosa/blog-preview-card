@@ -95,8 +95,8 @@ main {
     color: hsl(0, 0%, 7%);
 }
 
-.title h1 :hover{
-    color:hsl(47, 88%, 63%)
+.title:hover > h1{
+    color:hsl(47, 88%, 63%);
 }
 
 .description span {
