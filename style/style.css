@@ -17,7 +17,7 @@ main {
 }
 
 .preview-card-container {
-    max-width:384px;
+    width:384px;
     height:522px;
     border:1px black solid;
     border-radius: 20px;
@@ -111,7 +111,7 @@ main {
 }
 
 .author-container img {
-    width: 32px;
+    width:32px;
     height:32px;
 }
 
