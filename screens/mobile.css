@@ -1,5 +1,46 @@
 @media (max-width: 375px) {
-    body, main {
-      background-color: lightblue;
+    .preview-card-container {
+      width:327px;
+      height: 470px;
+      box-sizing: border-box;
+    }
+
+    .preview-card-container img {
+      width:279px;
+      height: auto;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }  
+
+    .category{
+      width: 73px;
+      height: 26px;
+    }
+
+    .category span {
+      font-size: 0.75rem;
+    }
+
+    .title h1 {
+      font-size: 1.25rem;
+    }
+
+    .description span {
+      font-size:0.875rem
+    }
+
+    .preview-card-content {
+      width:279px;
+      height:173px;
+    }
+
+    .publishdate span {
+      font-size:0.75rem;
+    }
+
+    .author-container img {
+      width: 32px;
+      height:32px;
     }
 }
